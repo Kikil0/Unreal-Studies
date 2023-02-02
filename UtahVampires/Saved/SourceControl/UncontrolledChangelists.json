@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/LevelPrototyping/TestMain.umap",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Textures/T_Ground_Moss_N.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Shapes/Shape_Wedge_A.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/BT_EnemyDefault.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/BP_AI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/AIBlendSpace1D.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_Fireball.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_AI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/Controllers/BP_TopDownController.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/Controllers/BP_TopDownControllerWASD.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Widgets/W_AIHealth.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/AI/ABP_AI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/AI/BBD_EnemyDefault.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/AI/BP_AIController.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/AI/BT_EnemyDefault.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/AI/BTTask_ChasePlayer.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Widgets/W_PlayerUI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Curve_Levels.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Widgets/W_DamageText.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/UI/Fonts/Pixeled.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/UI/Fonts/Pixeled_Font.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_PowerUp.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDownCharacter1_Move.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDownControllerWASD.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDown_Enemy.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/BBD_EnemyDefault.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/BTTask_ChasePlayer.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/BP_AIController.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/ABP_AI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/W_AI.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/W_AIHealth.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Widgets/NewWidgetBlueprint.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/Curve_Levles.uasset",
+				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/TopDown/EnemyDefault.uasset"
+			]
+		}
+	]
+}
