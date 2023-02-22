@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/1. Game Development/Unreal/Environments/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Levels/TheIsland.umap",
+				"E:/1. Game Development/Unreal/Environments/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/Surfaces/Sand_Surface_sbwh0yp0/MI_Sand_Surface_sbwh0yp0_4K.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/LandscapeMaterial.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Levels/TheIsland_sharedassets/Sandstone_LayerInfo.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Levels/TheIsland_sharedassets/WetSand_LayerInfo.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Grass.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/3D_Plants/Tall_Grass_rbEla/Foliage/FT_Tall_Grass_rbEla_Var1_lod0.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/3D_Plants/Tall_Grass_rbEla/Foliage/FT_Tall_Grass_rbEla_Var2_lod0.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/3D_Plants/Tall_Grass_rbEla/Foliage/FT_Tall_Grass_rbEla_Var3_lod0.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/StarterContent/Props/MaterialSphere.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/3D_Plants/Tall_Grass_rbEla/MI_Tall_Grass_rbEla_4K.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/Megascans/3D_Assets/Sandstone_Boulder_vd4jeiy/S_Sandstone_Boulder_vd4jeiy_high_Var1.uasset",
+				"E:/1. Game Development/Unreal/Environments/Content/PN_Pandanus/Map/Showroom.umap"
+			]
+		}
+	]
+}
