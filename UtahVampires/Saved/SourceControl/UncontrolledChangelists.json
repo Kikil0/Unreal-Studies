@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/USERS/Kikilo/GitHub/Unreal-Studies/UtahVampires/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/USERS/Kikilo/GitHub/Unreal-Studies/UtahVampires/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/USERS/Kikilo/GitHub/Unreal-Studies/UtahVampires/Content/LevelPrototyping/TestMain.umap",
 				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
 				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/LevelPrototyping/TestMain.umap",
 				"/Users/kikilo/Documents/Unreal Projects/UtahVampires/Content/StarterContent/Textures/T_Ground_Moss_N.uasset",
