@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/ProcGen.umap",
+				"E:/1. Game Development/Unreal/ProcGen/Content/Example.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimplePivotPainterExampleMat.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/Platforms.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/RunGameMode.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/BP_Platform.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/BP_DungeonGen.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"D:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/GridMaterial.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Props/Materials/M_Frame.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Architecture/Wall_Door_400x300.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/ThirdPerson/Maps/ProcGen2.umap",
+				"E:/1. Game Development/Unreal/ProcGen/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/DA_SS_Demo.umap",
+				"E:/1. Game Development/Unreal/ProcGen/Content/SS_SGF_ModuleDB.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/T_DemoSnapGridFlowItems.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/SGF_SideScroller.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/CandyDemo.umap",
+				"E:/1. Game Development/Unreal/ProcGen/Content/D_Candy_v2.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Content/SM_Wall_400x400.uasset",
+				"E:/1. Game Development/Unreal/ProcGen/Plugins/DungeonArchitect/Content/Samples/DA_SamplesCommon/Meshes/Wall_400x400.uasset"
+			]
+		}
+	]
+}
